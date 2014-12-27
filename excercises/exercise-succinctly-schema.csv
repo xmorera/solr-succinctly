@@ -1,0 +1,51 @@
+id,E-book Title,Book Description,Author,Tags
+1,jQuery Succinctly,"jQuery Succinctly was written to express, in short order, the concepts essential to intermediate and advanced jQuery development.",Cody Lindley,jquery
+2,Git Succinctly,Get up and running with one of the fastest-spreading revision control systems out there.,Ryan Hodson,"git, source-control"
+3,PDF Succinctly,"A primer for understanding the components of PDFs, how text and graphics are added to them, and how the final PDF is compiled.",Ryan Hodson,pdf
+4,HTTP Succinctly,"Learn to write better web apps and services, and debug them when something goes wrong.",Scott Allen,"http, web-apps, services"
+5,JavaScript Succinctly,"If you’re an intermediate JavaScript developer, JavaScript Succinctly is the book for you.",Cody Lindley,javascript
+6,LightSwitch Succinctly,"Visual Studio LightSwitch may be one of the most useful, yet under-utilized, development tools.",Jan Van der Haegen,"lightswitch,visual-studio"
+7,ASP.NET MVC 4 Mobile Websites Succinctly,"Learn how to create mobile-friendly websites using the powerful MVC 4 framework while minimizing duplicate content, leveraging jQuery.Mobile and HTML 5, and enhancing performance.",Lyle Luppes,"aspnet, mvc4,jquery, mobile"
+8,C++ Succinctly,"Covers C++ from types and functions to lambda expressions and the standard C++ library, while relating these concepts to their parallels in C#.",Michael McLaughlin,"c++,c#"
+9,Knockout.js Succinctly,"Learn to build dynamic, data-bound web UIs with minimal code and the MVVM design pattern, allowing simplified communication and maintenance.",Ryan Hodson,knockout
+10,F# Succinctly,"F# is the go-to functional language for the .NET platform. Learn the basics of identfiers, recursion, operators and more.",Robert Pickering,"f# ,more"
+11,Objective-C Succinctly,"Learn Objective-C from the syntax up with code samples and detailed explanations of properties, methods, memory management, and much more.",Ryan Hodson,"objective-c,ios"
+12,Data Structures Succinctly Part 1,Learn different types of data structures and how to interact with them while being mindful of their operational and resource complexity.,Robert Horvick,data-structures
+13,GIS Succinctly,Learn the ins and outs of geographic information systems.,Peter Shaw,gis 
+14,Data Structures Succinctly Part 2,Round out your knowledge of data structures and how to work with them in the second volume of Data Structures Succinctly.,Robert Horvick,data-structures
+15,Windows Store Apps Succinctly,Make your transition to developing Windows Store apps as smooth as the Windows 8 UI.,John Garland,"windows-8,windows-store"
+16,iOS Succinctly,"The companion to Objective-C Succinctly, and your practical introduction to developing for iOS.",Ryan Hodson,"objective-c,ios"
+17,WPF Succinctly,Create applications with stunning UIs while separating your front end from your business logic and data.,Buddy James,"wpf, ui"
+18,TypeScript Succinctly,Jump into Microsoft's open-source superset of JavaScript with TypeScript Succinctly.,Steve Fenton,"typescript, JavaScript"
+19,Unit Testing Succinctly,"Learn the basics of unit testing, different ways to implement it, and why it may not always be a good idea.",Marc Clifton,unit-testing
+20,Windows Azure SQL Reporting Succinctly,"Learn how to set up a Windows Azure SQL Database server, develop reports, and manage it all in the cloud.",Stacia Misner,"sql-azure,database"
+21,Direct2D Succinctly,"Use Direct2D, the graphics card, and a little Direct3D to create high-performance charts.",Chris Rose,"direct2d, direct3d"
+22,Postgres Succinctly,Learn how to use the long-standing open-source Postgres database management system.,Peter Shaw,"postgres,database"
+23,Visual Studio Add-Ins Succinctly,Increase your efficiency in Visual Studio by writing custom add-ins.,Joe Booth,"visual-studio,add-ins"
+24,ASP.NET Web API Succinctly,Microsoft's ASP.NET Web API simplifies data delivery through HTTP.,Emanuele DelBono,"aspnet,webapi"
+25,Assembly Language Succinctly,Maximize data processing speeds through x64 assembly language.,Chris Rose,assembly
+26,SQL Server Analysis Services Succinctly,Develop business intelligence solutions with SQL Server Analysis Services.,Stacia Misner,"sql-server,analysis-services"
+27,Direct3D Succinctly,Build on your knowledge of C++ and Direct2D to develop fully 3-D games and applications.,Chris Rose,direct3d
+28,Windows Phone 8 Development Succinctly,Build Windows Phone 8 apps that make the most of the operating system and hardware.,Matteo Pagani,windows-phone-8
+29,Visual Studio 2013 Succinctly,"Familiarize yourself with revised features, including synchronized settings and notifications, code editor improvements, and Windows 8.1 integration.",Alessandro Del Sole,visual-studio-2013
+30,AngularJS Succinctly,Perform common tasks and solve problems in AngularJS.,Frederik Dietz,angularjs
+31,Twitter Bootstrap Succinctly,"Design attractive, consistent UIs with Twitter Bootstrap.",Peter Shaw,bootstrap-ui
+32,Node.js Succinctly,"Use Node.js to create faster network and server-side applications on any scale, improve your existing database applications, or create web apps with JSON data.",Agus Kurniawan,"nodejs,json"
+33,BI Solutions Using SSAS Tabular Model Succinctly,Inform the decision-making process by building BI solutions with tabular data models in SSAS.,Parikshit Savjani,bi
+34,LightSwitch Mobile Business Apps Succinctly,Single-page HTML apps are a snap with LightSwitch.,Jan Van der Haegen,"lightswitch, spa"
+35,HDInsight Succinctly,Master the high-level languages and other features necessary to process data with HDInsight.,James Beresford,hdinsight
+36,Neural Networks Using C# Succinctly,"Neural networks are on the cutting edge of software development. Learn what they are, how they work, and how to write your own from scratch.",James McCaffrey,neural-netrworks
+37,R Succinctly,Begin developing with the powerful R programming language and find new ways for R to fulfill your data needs.,Barton Poulson,"r,data"
+38,MongoDB Succinctly,"Learn to use MongoDB, the popular open-source database system.",Agus Kurniawan,mongodb
+39,Entity Framework Code First Succinctly,Master the newest development mode for Entity Framework.,Ricardo Peres,entity-framework
+40,Android Programming Succinctly,Navigate the key requirements for designing an Android application.,Ryan Hodson,android
+41,PowerShell Succinctly,"Learn to leverage a variety of PowerShell commands to invoke scripts that work with existing frameworks, including .NET and XML, to optimize productivity.",Rui Machado,powershell
+42,NHibernate Succinctly,"Discover the intricacies of NHibernate, an established and powerful Object/Relational model (ORM).",Ricardo Peres,"nhibernate,orm"
+43,MATLAB Succinctly,Learn the essential skills needed to use the flexible MATLAB system.,Dmitri Nesteruk ,matlab
+44,Localization for .NET Succinctly,Learn to write applications that support different languages and cultures.,Jonas Gauffin,"localization,net"
+45,Imperative to Functional Programming Succinctly,"Learn the main concepts behind functional programming such as currying, partial application, and monads. Combine functional programming with imperative programming projects.",Marc Clifton,imperative-programming
+46,Regular Expressions Succinctly,Use regular expressions to quickly solve basic programming problems in Microsoft Visual Studio.,Joe Booth,regular-expressions
+47,Prism 4 Succinctly,Reduce the amount of work needed to produce well-designed solutions by mastering Microsoft Prism 4.,Eric Stitt,prism4
+48,ServiceStack Succinctly,"Learn how to use ServiceStack, a fast, simplified, open-source alternative to web service frameworks.",Zoran Maksimovic,servicestack
+49,SharePoint 2013 App Model Succinctly,Learn to design and deploy apps with the newest SharePoint development model.,Fabio Franzini,sharepoint-2013
+50,Machine Learning Using C# Succinctly,Learn how to apply different machine learning techniques to data analysis problems.,James McCaffrey,machine-learning
