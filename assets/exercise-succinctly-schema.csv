@@ -1,4 +1,4 @@
-id,E-book Title,Book Description,Author,Tags
+id,title,description,author,tags
 1,jQuery Succinctly,"jQuery Succinctly was written to express, in short order, the concepts essential to intermediate and advanced jQuery development.",Cody Lindley,jquery
 2,Git Succinctly,Get up and running with one of the fastest-spreading revision control systems out there.,Ryan Hodson,"git, source-control"
 3,PDF Succinctly,"A primer for understanding the components of PDFs, how text and graphics are added to them, and how the final PDF is compiled.",Ryan Hodson,pdf
