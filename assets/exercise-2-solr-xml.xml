@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Solr Succinctly Test upload Solr XML -->
+<add>
+	<doc>
+		<field name="bookid">52</field>
+		<field name="title">Kanban Succinctly</field>
+		<field name="description">Gets you started into the Kanban world in around 100 pages</field>
+		<field name="author">Xavier Morera</field>
+		<field name="tags">kanban</field>
+		<field name="tags">agile</field>
+	</doc>
+</add>
+
+

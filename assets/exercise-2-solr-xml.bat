@@ -1,0 +1,1 @@
+java -Dauto -Durl=http://localhost:8983/solr/succinctlybooks/update -jar post.jar "exercise-2-solr-xml.xml"

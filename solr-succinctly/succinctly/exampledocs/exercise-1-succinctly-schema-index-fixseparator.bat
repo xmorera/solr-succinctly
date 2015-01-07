@@ -1,0 +1,1 @@
+java -Durl="http://localhost:8983/solr/succinctlybooks/update?f.tags.split=true&f.tags.separator=|"  -Dtype=text/csv -jar post.jar "exercise-1-succinctly-schema.csv"

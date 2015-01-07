@@ -1,0 +1,1 @@
+java -Durl=http://localhost:8983/solr/succinctlybooks/update  -Dtype=text/csv -jar post.jar "exercise-1-succinctly-schema.csv"

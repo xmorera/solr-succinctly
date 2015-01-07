@@ -1,0 +1,1 @@
+curl http://localhost:8983/solr/succinctlybooks/update?commit=true -H "Content-Type: text/xml" --data-binary "<add><doc><field name=\"bookid\">53</field><field name=\"title\">Scrum Succinctly</field><field name=\"author\">Xavier Morera</field><field name=\"tags\">scrum</field></doc></add>"
