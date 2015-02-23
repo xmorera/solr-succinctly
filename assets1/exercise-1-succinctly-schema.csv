@@ -49,3 +49,4 @@ bookid,title,description,author,tags
 48,ServiceStack Succinctly,"Learn how to use ServiceStack, a fast, simplified, open-source alternative to web service frameworks.",Zoran Maksimovic,servicestack
 49,SharePoint 2013 App Model Succinctly,Learn to design and deploy apps with the newest SharePoint development model.,Fabio Franzini,sharepoint-2013
 50,Machine Learning Using C# Succinctly,Learn how to apply different machine learning techniques to data analysis problems.,James McCaffrey,machine-learning
+
